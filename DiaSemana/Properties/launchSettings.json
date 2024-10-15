@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiaSemana": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
